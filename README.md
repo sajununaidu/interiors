@@ -1,1 +1,1 @@
-# interiors
+This is an interior website.
