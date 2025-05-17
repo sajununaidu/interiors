@@ -44,7 +44,7 @@ function sendMail(){
 		message = message.replaceAll("\r", "%0D");
 		message = message.replaceAll("\n", "%0A");
 		message = message.replaceAll("\t", "%09");
-		window.location.href = "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=tree2boxinteriors@gmail.com&subject="+subject+"&body="+"Hi%20tree2box"+message+"%0ABest%20regards%0A"+name;
+		window.location.href = "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=sajununaidu12@gmail.com&subject="+subject+"&body="+"Hi%20tree2box"+message+"%0ABest%20regards%0A"+name;
 	}
 }
 
